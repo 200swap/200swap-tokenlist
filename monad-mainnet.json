@@ -17,7 +17,7 @@
             "name": "GMONAD",
             "symbol": "GMONAD",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/200swap-tokenlist/main/assets/143/0x7db552eeb6b77a6babe6e0a739b5382cd653cc3e.png"
+            "logoURI": "https://raw.githubusercontent.com/200swap/200swap-tokenlist/main/assets/143/0x7db552eeb6b77a6babe6e0a739b5382cd653cc3e.png"
         },
         {
             "chainId": 143,
@@ -25,7 +25,7 @@
             "name": "CHOG",
             "symbol": "CHOG",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/200swap-tokenlist/main/assets/143/0x350035555e10d9afaf1566aaebfced5ba6c27777.png"
+            "logoURI": "https://raw.githubusercontent.com/200swap/200swap-tokenlist/main/assets/143/0x350035555e10d9afaf1566aaebfced5ba6c27777.png"
         },
         {
             "chainId": 143,
@@ -33,7 +33,7 @@
             "name": "Pepe on Monad",
             "symbol": "PEPE",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/200swap-tokenlist/main/assets/143/0xc09c8242eb21b24298303799bb5af402a2957777.png"
+            "logoURI": "https://raw.githubusercontent.com/200swap/200swap-tokenlist/main/assets/143/0xc09c8242eb21b24298303799bb5af402a2957777.png"
         }
     ]
 }
