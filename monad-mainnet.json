@@ -8,7 +8,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 1
+        "patch": 2
     },
     "tokens": [
         {
@@ -34,6 +34,30 @@
             "symbol": "PEPE",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/200swap/200swap-tokenlist/main/assets/143/0xc09c8242eb21b24298303799bb5af402a2957777.png"
+        },
+        {
+            "chainId": 143,
+            "address": "0x1aD7052BB331A0529c1981c3EC2bC4663498A110",
+            "name": "ALLOCA",
+            "symbol": "ALLOCA",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/200swap/200swap-tokenlist/main/assets/143/0x1aD7052BB331A0529c1981c3EC2bC4663498A110.png"
+        },
+        {
+            "chainId": 143,
+            "address": "0x81A224F8A62f52BdE942dBF23A56df77A10b7777",
+            "name": "emonad",
+            "symbol": "emo",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/200swap/200swap-tokenlist/main/assets/143/0x81A224F8A62f52BdE942dBF23A56df77A10b7777.png"
+        },
+        {
+            "chainId": 143,
+            "address": "0x405b6330e213DED490240CbcDD64790806827777",
+            "name": "moncock",
+            "symbol": "moncock",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/200swap/200swap-tokenlist/main/assets/143/0x405b6330e213DED490240CbcDD64790806827777.png"
         }
     ]
 }
